@@ -1,8 +1,8 @@
 <?php
 // Configuración de conexión
-$host = "localhost";
-$usuario = "root"; // Cambia si tu usuario es diferente
-$contrasena = "123456789"; // Cambia por tu contraseña real
+$host = "github.com";
+$usuario = "doclocator-604"; // Cambia si tu usuario es diferente
+$contrasena = "doclocator604"; // Cambia por tu contraseña real
 $baseDeDatos = "doclocator";
 
 // Crear conexión
