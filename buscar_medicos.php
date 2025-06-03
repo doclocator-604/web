@@ -1,7 +1,7 @@
 <?php
-$host = "localhost";
-$user = "root";
-$password = "123456789";
+$host = "github.com";
+$user = "doclocator-604";
+$password = "doclocator604";
 $db = "doclocator";
 
 // Conexión a la base de datos
